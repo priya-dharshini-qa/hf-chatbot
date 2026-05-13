@@ -20,7 +20,7 @@ A simple conversational chatbot built with Python and the HuggingFace Inference 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/hf-chatbot.git
+git clone https://github.com/priya-dharshini-qa/hf-chatbot.git
 cd hf-chatbot
 ```
 
