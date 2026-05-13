@@ -61,6 +61,9 @@ Bot: Hi there! How can I help you today?
 You: quit
 Goodbye!
 ```
+## Demo
+
+![Chatbot Screenshot](chat-bot.png)
 
 ## Project Structure
 
